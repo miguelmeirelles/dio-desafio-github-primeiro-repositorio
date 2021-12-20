@@ -1,1 +1,5 @@
 Todos os comandos são feitos pelo Git Bash.
+
+git status (mostra o status dos arquivos)
+git commit -m "mensagem" (cria o comit dos arquivos criados)
+git push origin main (empurra o repositorio para o Github)
